@@ -6,6 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class FragmentActivity extends AppCompatActivity {
+    String test = "ABCD";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
